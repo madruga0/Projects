@@ -1,0 +1,126 @@
+body{
+    border: 2px solid black;
+    border-radius: 2%;
+    padding: 20px;
+    margin-top: 56px;
+    margin-bottom: 56px;
+}
+    
+
+
+
+h1{
+    background-color: #acafd4;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    padding: 10px;
+    color: #061761;
+
+}
+
+.p1{
+    text-align: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.center {
+    margin-top: 0;
+    background-color: #cacfff;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.heard1{
+    background-color: #b6b6b6;
+    padding: 12px;
+    border-bottom: 2px solid #061761;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    color: #061761;
+}
+
+.p2{
+    padding-left: 5%;
+    text-align: left;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heard2{
+    background-color: #b6b6b6;
+    padding: 10px;
+    border-bottom: 2px solid #061761;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    color: #061761;
+}
+
+
+
+.heard3{
+    background-color: #b6b6b6;
+    padding: 10px;
+    border-bottom: 2px solid #061761;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    color: #061761;
+}
+
+.p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11 {
+    padding-left: 5%;
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+
+a:hover {
+    font-size: large;
+    text-decoration: underline;
+}
+
+.menu{
+    text-align: center;
+}
+
+/* Estou formatando os elementos "LI" dentro da classe "MENU" */
+
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+
+}
+
+/* Estou formatando os elementos "a" dentro dos "li"que por sua vez estão dentro do "menu" */
+
+.menu a{
+    background-color: #b6b6b6;
+    padding: 16px;
+    display: inline-block;
+}
+
+.menu a:hover{
+    background-color: #acafd4;
+    
+}
+
+
+
+
+
+
+
